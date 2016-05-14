@@ -1,0 +1,79 @@
+Actions/Relationships
+X is admiring Y
+X is being flayed
+X is being flayed by Y
+X is being mutilated
+X is being mutilated by Y
+X is being shot
+X is being tortured
+X is burning
+X is burning Y
+X is contemplating
+X is contemplating Y
+X is cooking
+X is cooking Y
+X is cringing
+X is dead
+X is devouring Y
+X is embracing Y
+X is engraving
+X is engraving Y
+X is falling
+X is fighting with Y
+X is greeting Y
+X is hanging from Y
+X is hiding Y
+X is impaled on Y
+X is in a fetal position
+X is laboring
+X is laughing
+X is making a plaintive gesture
+X is making a submissive gesture
+X is massacring Y
+X is melting
+X is praying
+X is praying to Y
+X is prostrating itself before Y
+X is raising Y
+X is refusing Y
+X is screaming
+X is shooting Y
+X is smeared out into a spiral
+X is speaking with Y
+X is striking a menacing pose
+X is striking a triumphant pose
+X is striking down Y
+X is suffering
+X is surrounded by Y
+X is torturing Y
+X is traveling
+X is unnaturally contorted
+X is weeping
+X is withering away
+X looks confused
+X looks dejected
+X looks offended
+X looks terrified
+
+
+Unusual Design Elements
+Blazing sun
+Cloud
+Crescent moon
+Full moon
+Half moon
+Hidden moon
+Mountain
+Shining Sun
+Wave
+Buff monsters
+Wormy tendrils
+Staring eyeballs
+Giant kingsnake
+Nothing
+Lumbering freak
+Husband of the lumbering freak
+Moon horror
+Pond grabber
+Vile crone
+Groom of the vile crone
